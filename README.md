@@ -9,11 +9,11 @@ The following two tables represent queries to return the statistical summaries f
 
 ### June Statistics
 
-<img src = 'Resources/June_stats.png'>
+<img src = 'Resources/June_stats.PNG'>
 
 ### December Statistics
 
-<img src = 'Resources/December_stats.png'>
+<img src = 'Resources/December_stats.PNG'>
 
 ## Summary of Results
  ### Key Points
